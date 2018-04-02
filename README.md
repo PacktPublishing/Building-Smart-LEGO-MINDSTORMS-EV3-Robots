@@ -21,6 +21,9 @@ NA
 
 Spend some time familiarizing yourself with EV3. It is graphical programming software in which programs are written by connecting code blocks together. You should know the names of the blocks and where to find each one of them in the programming palette. You should also be comfortable with dragging and dropping blocks to place them in your program, know how to change their modes, and have a basic understanding of what individual blocks do.
 
+## Robot in action
+Visit the following link to check out the videos of the robot: https://goo.gl/GB4sFr
+
 ## Related Products
 * [Mastering ROS for Robotics Programming - Second Edition](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788478953)
 
